@@ -39,7 +39,7 @@ CPU (Central Processing Unit)
 - Control Unit
      Bertugas mengontrol operasi CPU dan secara keselurahan mengontrol komputer sehingga terjadi sinkronisasi kerja antar komponen dalam menjalankan fungsi – fungsi operasinya.
 
-4.Gambarkan operasi-operasi komputer dan jelaskan masing-masing fungsi?
+4. Gambarkan operasi-operasi komputer dan jelaskan masing-masing fungsi?
 - operasi pengolahan data (processing)
 Pemrosesan data dari/ke penyimpanan data.
 - operasi penyimpan data
