@@ -16,7 +16,7 @@ Bagian yang terkait erat dengan unit-unit operasional
 Contoh: teknologi hardware, perangkat antarmuka, knologi memori, sistem memori, dan sinyal-sinyal kontrol.
 
 2. Gambarkan Struktur Top Level komputer dan jelaskan masing-masing fungsi?
-
+https://github.com/SatriaAnugra/Arsitektur-dan-organisasi-komputer-/issues/1#issue-2092939486
 Struktur TOP-LEVEl terdiri dari CPU (Central Processing Unit), Main Memory, Sistem Interconnection, dan Input Output.
 -CPU adalah otak dari computer. CPU dapat menjalankan suatu proses dalam computer sehingga CPU dapat melakukan operasi aritmatika dan logika.
 -Main Memory adalah tempat penyimpanan data dalam bentuk byte.
@@ -30,6 +30,7 @@ Struktur CPU terdiri dari Registers, ALU, internal CPU interconnection dan Contr
 -CPU Interconnections: Sejumlah mekanisme komunikasi antara Control Unit, ALU dan Register-Register.
 
 3. Gambarkan Struktur Central Processing Unit dan jelaskan masing-masing fungsi?
+https://github.com/SatriaAnugra/Arsitektur-dan-organisasi-komputer-/issues/2#issue-2092972822
 CPU (Central Processing Unit)
 - Register
      proses pengolahan data. Memori ini bersifat sementara, biasanya digunakan untuk menyimpan data saat diolah ataupun data untuk pengolahan selanjutnya.
@@ -41,6 +42,7 @@ CPU (Central Processing Unit)
      Bertugas mengontrol operasi CPU dan secara keselurahan mengontrol komputer sehingga terjadi sinkronisasi kerja antar komponen dalam menjalankan fungsi – fungsi operasinya.
 
 4. Gambarkan operasi-operasi komputer dan jelaskan masing-masing fungsi?
+https://github.com/SatriaAnugra/Arsitektur-dan-organisasi-komputer-/issues/3#issue-2092977108
 - operasi pengolahan data (processing)
 Pemrosesan data dari/ke penyimpanan data.
 - operasi penyimpan data
