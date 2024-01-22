@@ -29,3 +29,18 @@ Struktur CPU terdiri dari Registers, ALU, internal CPU interconnection dan Contr
 -Arithmetic and Logic Unit (ALU): Membentuk fungsi-fungsi pengolahan data komputer
 -Register: sebagai penyimpan internal bagi CPU
 -CPU Interconnections: Sejumlah mekanisme komunikasi antara Control Unit, ALU dan Register-Register
+
+3. CPU (Central Processing Unit)
+- Register
+     proses pengolahan data. Memori ini bersifat sementara, biasanya digunakan untuk menyimpan data saat diolah ataupun data untuk pengolahan selanjutnya.
+
+- Arithmetic and Logic Unit (ALU)
+     mesin bahasa (machine language) karena bagian ini mengerjakan instruksi – instruksi bahasa mesin yang diberikan padanya. 
+
+- Internal CPU Interconection
+    Sejumlah mekanisme komunikasi yang menghubungkan komponen internal CPU yaitu ALU, unit kontrol dan register – register. Juga menghubungkan komponen eksternal CPU yaitu sistem lainnya, seperti memori utama, dan piranti masukan/keluaran.
+
+- Control Unit
+     Bertugas mengontrol operasi CPU dan secara keselurahan mengontrol komputer sehingga terjadi sinkronisasi kerja antar komponen dalam menjalankan fungsi – fungsi operasinya.
+
+4. 
