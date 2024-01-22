@@ -43,4 +43,12 @@ Struktur CPU terdiri dari Registers, ALU, internal CPU interconnection dan Contr
 - Control Unit
      Bertugas mengontrol operasi CPU dan secara keselurahan mengontrol komputer sehingga terjadi sinkronisasi kerja antar komponen dalam menjalankan fungsi – fungsi operasinya.
 
-4. 
+4. - operasi pengolahan data (processing)
+Pemrosesan data dari/ke penyimpanan data
+- operasi penyimpan data
+Computer sebagai alat menyimpan data : Data di pindahkan dari lingkungan luar ke penyimpanan computer (baca) dan sebaliknya (tulis)
+- operasi pemindahan data 
+sebagai alat memindahkan data : dengan memindahkan data dari peripheral atau saluran komunikasi ke perangkat lainya.
+Contoh : keyboard ke screen, Jarak lebih jauh maka proses komunikasi data.
+- operasi kontrol
+Fungsi Pemrosesan data dari penyimpan data ke I/O
