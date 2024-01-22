@@ -16,6 +16,7 @@ Bagian yang terkait erat dengan unit-unit operasional
 Contoh: teknologi hardware, perangkat antarmuka, knologi memori, sistem memori, dan sinyal-sinyal kontrol.
 
 2. Gambarkan Struktur Top Level komputer dan jelaskan masing-masing fungsi?
+
 Struktur TOP-LEVEl terdiri dari CPU (Central Processing Unit), Main Memory, Sistem Interconnection, dan Input Output.
 -CPU adalah otak dari computer. CPU dapat menjalankan suatu proses dalam computer sehingga CPU dapat melakukan operasi aritmatika dan logika.
 -Main Memory adalah tempat penyimpanan data dalam bentuk byte.
